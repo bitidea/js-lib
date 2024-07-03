@@ -7,3 +7,4 @@ Standard: easy to use, high performance, powerful
 | orm | https://github.com/drizzle-team/drizzle-orm https://github.com/prisma/prisma | 
 | tools | https://github.com/sodiray/radash https://github.com/selfrefactor/rambda |
 | time | https://github.com/iamkun/dayjs https://github.com/date-fns/date-fns |
+| log | https://github.com/pinojs/pino |
